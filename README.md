@@ -1,3 +1,5 @@
+<img src="/compressor_logo.png" width="75">  
+
 # Image Compressor  
   
 #### __*A tool to compress image by reducing the number of colors using K-Means Algorithm.*__  
