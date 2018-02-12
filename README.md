@@ -21,6 +21,11 @@ Step 3: This run 10 iterations, first to train & then outputs the compressed ima
   
   
   
+### Output
+<img src="output.png" width="800" height="500"/>  
+  
+  
+  
 ### Development  
   
 Want to contribute? **:pencil:**  
@@ -52,6 +57,6 @@ If you'd like to request a new functionality, feel free to do so by opening an i
   
   
 ### Articles to Learn
-* https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
-* http://dataaspirant.com/2017/01/13/support-vector-machine-algorithm/
-* https://gist.github.com/obstschale/7320846  
+* https://www.datascience.com/blog/k-means-clustering
+* https://en.wikipedia.org/wiki/K-means_clustering
+* https://gist.github.com/obstschale/7320846  
