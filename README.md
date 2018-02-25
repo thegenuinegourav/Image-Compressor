@@ -11,7 +11,7 @@ Image Compressor uses the K-means algorithm for image compression by reducing th
 The K-means algorithm is a method to automatically cluster similar data examples together.  
 In a straightforward 24-bit color representation of an image, each pixel is represented as three 8-bit unsigned integers (ranging from 0 to 255) that specify the red, green and blue intensity values.  
 An Image contains thousands of colors, and so Image Compressor will reduce the number of colors to 16 colors.  
-By making this reduction, it is possible to represent (compress) the photo in an ecient way.  
+By making this reduction, it is possible to represent (compress) the photo in an efficient way.  
 Specifically, you only need to store the RGB values of the 16 selected colors, and for each pixel in the image you now need to only store the index of the color at that location (where only 4 bits are necessary to represent 16 possibilities).   
   
   
